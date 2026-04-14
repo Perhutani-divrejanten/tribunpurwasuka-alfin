@@ -48,3 +48,25 @@
       border-radius: 30px; }
     .owl-theme .owl-dots .owl-dot.active span, .owl-theme .owl-dots .owl-dot:hover span {
       background: #4DC7A0; }
+
+
+.brand-logo-text {
+  display: inline-flex;
+  align-items: baseline;
+  gap: 4px;
+  line-height: 1;
+}
+
+.brand-logo-main {
+  font-size: 24px;
+  font-weight: 700;
+  letter-spacing: -0.5px;
+  color: #1F2937;
+}
+
+.brand-logo-sub {
+  font-size: 17px;
+  font-weight: 500;
+  letter-spacing: 0.5px;
+  color: #56500D;
+}

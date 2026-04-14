@@ -1,19 +1,19 @@
 {
-  "name": "indonesiadaily-article-generator",
+  "name": "tribunpurwasuka-article-generator",
   "version": "1.0.0",
-  "description": "Generator artikel otomatis dari Google Sheets untuk Indonesia Daily",
+  "description": "Generator artikel otomatis dari Google Sheets untuk Tribun Purwasuka",
   "main": "generate.js",
   "scripts": {
     "generate": "node generate.js",
     "start": "node generate.js"
   },
   "keywords": [
-    "indonesiadaily",
+    "tribunpurwasuka",
     "generator",
     "google-sheets",
     "html"
   ],
-  "author": "Indonesia Daily Team",
+  "author": "Tribun Purwasuka Team",
   "license": "ISC",
   "dependencies": {
     "axios": "^1.6.0",
